@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-代码洁癖患者💥
+Not great, but I love it💥
 
 <!--
 **may-fly/may-fly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
